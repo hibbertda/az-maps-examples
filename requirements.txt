@@ -1,0 +1,4 @@
+python-dotenv
+requests
+azure-mgmt-maps
+azure-identity
